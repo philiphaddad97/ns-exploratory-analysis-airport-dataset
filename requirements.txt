@@ -1,0 +1,4 @@
+networkx==2.3
+pandas
+matplotlib==2.2.3
+jupyterlab
